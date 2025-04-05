@@ -19,12 +19,12 @@ We're going to abuse it with content it was never originally meant for.
 Steps to access the Vault:
 
 ~~~
-Step I: Move and/or copy the folder labeled Vault(Version number) on this drive to somewhere on your computer (~1 GB). Any place you store miscellaneous files could be suitable.
+Step I: Extract the contents of the zip file and Move and/or copy the folder labeled Vault(Version number) to somewhere on your computer (~1 GB). Any place you store miscellaneous files could be suitable.
 
 Step II: Download and install Obsidian MD from their website (290 MB).
 https://obsidian.md/
 
-Step III: Open Obsidian and select "Open folder as vault" and navigate to the folder you placed onto your computer. Select the folder.
+Step III: Open Obsidian and select "Open folder as vault" and navigate to the Vault(Version number) folder you placed onto your computer. Select the folder.
 
 Step IV: When the Vault opens, it will ask if you trust the author and if you want to use restricted mode. Trust the author and keep restricted mode OFF.
 This is necessary to allow the usermade plugins in the Vault to function correctly.
