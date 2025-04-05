@@ -19,7 +19,7 @@ We're going to abuse it with content it was never originally meant for.
 Steps to access the Vault:
 
 ~~~
-Step I: Move and/or copy the folder labeled AftermathVault on this drive to somewhere on your computer (370 MB). Any place you store miscellaneous files could be suitable.
+Step I: Move and/or copy the folder labeled Vault(Version number) on this drive to somewhere on your computer (~1 GB). Any place you store miscellaneous files could be suitable.
 
 Step II: Download and install Obsidian MD from their website (290 MB).
 https://obsidian.md/
