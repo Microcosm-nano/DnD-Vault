@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e952fdcbc413934c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75941f45ee6578e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Quick Notes & README/README from Mitch.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README from Mitch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4eea47f6f52c31f8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Party Info.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Party Info"
+            }
+          },
+          {
+            "id": "209716373f3472c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Screen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Screen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-Quick Notes & README/README from Mitch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README from Mitch"
+            }
+          },
+          {
+            "id": "f2388e48fedf8fa2",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f3acf8df95d37197",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "25e1b64481617939",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6-World/Emory Mountains/Emory Mountain Range.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Emory Mountain Range"
+            }
+          },
+          {
+            "id": "7228b65c4e55f6a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6-World/Emory Mountains/Emory Mountain Range.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Emory Mountain Range"
+            }
+          },
+          {
+            "id": "192207ff41ca9e2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "75e9f456725188dd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "46f2119d6e51fd2a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "6889a2830a345858",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "60e37fbdc2003211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ebee6b8d671ca1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "23d7498f5d8ef41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20712f1b82bd764",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 645.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "2911de48d50d504c",
+  "lastOpenFiles": [
+    "3-Party/Players/Players.md",
+    "3-Party/The Yam Court/The Yam Court.md",
+    "3-Party/The Yam Court/Frank.md",
+    "5-Campaign/Items/Eye of Aazimor.md",
+    "3-Party/The Yam Court/Rowan.md",
+    "1-DM Toolkit/DM Party Info.md",
+    "1-DM Toolkit/DM Screen.md",
+    "3-Party/The Graveyard/The Graveyard.md",
+    "2-Mechanics/CLI/items/cloak-of-protection-xdmg.md",
+    "2-Mechanics/CLI/items/ring-of-free-action-xdmg.md",
+    "2-Mechanics/CLI/items/ring-of-evasion-xdmg.md",
+    "4-Session Journals/2025-03-28.md",
+    "2-Mechanics/CLI/tables/magic-items-tce.md",
+    "4-Session Journals/2025-01-17.md",
+    "2-Mechanics/CLI/classes/classes.md",
+    "2-Mechanics/CLI/decks/decks.md",
+    "0-Quick Notes & README/Notes/QuickNotes.md",
+    "0-Quick Notes & README/Notes/Changelog.md",
+    "2-Mechanics/CLI/classes/Artificer.md",
+    "2-Mechanics/CLI/classes/Artificer Battle Smith.md",
+    "2-Mechanics/CLI/classes/Artificer Alchemist.md",
+    "2-Mechanics/CLI/classes/Artificer Artillerist.md",
+    "2-Mechanics/CLI/classes/Artificer Armorer.md",
+    "3-Party/The Yam Court/Izzy.md",
+    "3-Party/Players/Jake.md",
+    "0-Quick Notes & README/README from Mitch.md",
+    "3-Mechanics/CLI/items",
+    "3-Mechanics/CLI",
+    "3-Mechanics",
+    "0-Quick Notes & README/Notes",
+    "z_Assets/Emory Mountain Range Map New.jpg",
+    "z_Assets/Abberiss.jpg",
+    "z_Assets/The Midas Map.jpg",
+    "z_Assets/Eldritch_Lich~2.jpg",
+    "z_Assets/Lupine Tomb2.jpg",
+    "z_Assets/The Midas 1.jpg",
+    "z_Assets/The Midas.jpg",
+    "z_Templates/Archive",
+    "z_Assets/download.gif",
+    "z_Assets/Clan Wilthang.webp",
+    "z_Assets/Emory.jpg",
+    "3-Mechanics/CLI/spells/img",
+    "3-Mechanics/CLI/spells",
+    "3-Mechanics/CLI/rules/variant-rules",
+    "3-Mechanics/CLI/rules",
+    "3-Mechanics/CLI/rewards",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
